@@ -12,3 +12,4 @@ Insights.
 4. Number Title by Release Year: Number of titles released each year. This can show how Netflix’s content library has grown and evolved over time.
 
 5. Distribution of shows as per different genres: This can help understand viewer preferences and guide content strategy.
+   
